@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716213299460",
+    "project_id": "interview-project-d3c0e",
+    "storage_bucket": "interview-project-d3c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716213299460:android:dc5f453c9294693717c851",
+        "android_client_info": {
+          "package_name": "com.pitchcatalyst.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_aPyod5XfhKfOrhbhjBj_Q-fn5LDNMOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
