@@ -11,8 +11,8 @@ class ContentAdapter(private var items: List<DataReq>,private val itemClickListe
 
     class ViewHolder(private val binding: ItemContentBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(item: DataReq, itemClickListener: ItemClickListener) {
-            binding.tvBody.text = item.title
-            binding.tvTitle.text = item.body
+            binding.tvTitle.text = item.title
+            binding.tvBody.text = item.body
             binding.checkbox.isChecked = item.isChecked
 
             binding.checkbox.setOnCheckedChangeListener { _, isChecked ->
